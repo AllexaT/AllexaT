@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  ### 🚀 關於我 (About Me)
+  ### 關於我 (About Me)
   
   我是一名熱愛技術的開發者。致力於編寫整潔、可維護的程式碼。
   
@@ -26,7 +26,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-  <h3>🛠️ 技術堆疊 (Tech Stack)</h3>
+  <h3>技術堆疊 (Tech Stack)</h3>
   
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,11 +45,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h3>📊 GitHub 數據 (Stats)</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AllexaT&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180" alt="AllexaT's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllexaT&layout=compact&theme=radical&border_radius=10" height="180" alt="Top Languages" />
-  </p>
+  <h3>GitHub 數據 (Stats)</h3>
   
   <!-- Streak Stats (Optional) -->
   <p>
