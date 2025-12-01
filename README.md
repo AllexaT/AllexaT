@@ -45,12 +45,21 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h3>GitHub 數據 (Stats)</h3>
+  <h3>📊 GitHub 數據 (Stats)</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=AllexaT&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180" alt="AllexaT's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllexaT&layout=compact&theme=radical&border_radius=10" height="180" alt="Top Languages" />
+  </p>
   
   <!-- Streak Stats (Optional) -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllexaT&theme=radical&border_radius=10" alt="GitHub Streak" />
   </p>
+
+  <!-- Snake Game Animation -->
+  <h3>🐍 貢獻貪吃蛇 (Contribution Snake)</h3>
+  <img src="https://github.com/AllexaT/AllexaT/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
 
 <!-- Footer -->
