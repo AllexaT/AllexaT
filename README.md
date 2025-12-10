@@ -57,9 +57,6 @@
   <img src="https://github.com/AllexaT/AllexaT/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <!-- WakaTime Stats -->
-  <h3>WakaTime 程式開發時間 (Coding Stats)</h3>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
 
 </div>
 
